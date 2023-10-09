@@ -4,7 +4,6 @@ fastapi[all]==0.89.1
 loguru
 pytest
 pytest-cov
-opencv-python
 pandas
 numpy
 Pillow
